@@ -1,63 +1,60 @@
+
 ---
   title : Features of BlockTech
+localeTitle: Características de BlockTech
 ---
-## Features of Blockchain Technology
+## Características de la tecnología Blockchain
 
-Blockchain is almost always used in lieu of Bitcoin and cryptocurrency. However, there are many other places this technology can be used.  And we are beginning to barely scratch the surface of it. With all the hype around it, we know, the Blockchain Technology (BlockTech) is going to be huge. But what makes it unique?  
+Blockchain se usa mayormente en Bitcoin y otras criptomonedas, sin embargo, hay muchos otros lugares donde se puede utilizar esta tecnología y apenas estamos empezando a arañar la superficie. La tecnología Blockchain (BlockTech) tiene un futuro prometedor. ¿Pero qué la hace única?
 
-In this article, we are going to explore the key characteristic features of BlockTech.
+En este artículo, vamos a explorar las características clave de BlockTech.
 
-#### _* Decentralized System_
+#### _\* Sistema descentralizado_
 
-> Blockchain is a Decentralized Technology, by design.
+> Blockchain es una tecnología descentralizada por diseño.
 
-When something is controlled by a central authority, where the power to make decision lies in the hands of the apex of the management, such system is called a Centralized System. Banks, for example, are a centralized system, where it's the responsibility of the Governor to make decisions.
+Cuando algo está controlado por una autoridad central, donde el poder para tomar una decisión está en manos del ápice de la administración, dicho sistema se denomina Sistema Centralizado. Los bancos, por ejemplo, son un sistema centralizado, donde el director es el responsable de tomar las decisiones.
 
-On the contrary, when the power is vested in the hands of the people or the users, such system is said to be a Decentralized System.
-The peer to peer network, Torrent, for example is a decentralised system, where the user has complete control.
+Por el contrario, cuando el poder está en manos de las personas o los usuarios, se dice que dicho sistema es un sistema descentralizado. La red de igual a igual, Torrent, por ejemplo, es un sistema descentralizado, donde el usuario tiene el control completo.
 
-![Decentralized Systems](https://raw.githubusercontent.com/Vagisha16/Hw3/master/blockchain_article_pic.jpg)
+![Sistemas descentralizados](https://raw.githubusercontent.com/Vagisha16/Hw3/master/blockchain_article_pic.jpg)
 
-#### _* Distributed Ledger_
+#### _\* Registros distribuidos
 
-> Blockchains use distributed Ledger Technology (DLT) to store and access the data around.
+> Las cadenas de bloques utilizan la tecnología de registro distribuido (DLT) para almacenar y acceder a los datos.
 
-When something is stored on a Distributed Ledger, multiple copies of it are made across the network at the same time. Unlike traditional databases, distributed ledger do not have a central database or administration functionality.
+Cuando algo se almacena en un registro distribuido, se hacen varias copias de él a través de la red al mismo tiempo. A diferencia de las bases de datos tradicionales, el registro distribuido no tiene una base de datos central o una funcionalidad de administración.
 
-![Distributed Ledger](https://qph.fs.quoracdn.net/main-qimg-2e24c4949a63eefa9bbab1773e185cdd)
+![Libro Mayor Distribuido](https://qph.fs.quoracdn.net/main-qimg-2e24c4949a63eefa9bbab1773e185cdd)
 
-When applied in a decentralized system like Blockchain, each user has a copy of the ledger and participates in the transaction verification. This gives Blockchain the property of Immutability and ensures security. Since, the data is distributed, there is no centralized version of the data for the hackers to corrupt. The data and the records are public and easily verifiable. This also eliminates single point of Failure.
+Cuando se aplica en un sistema descentralizado como Blockchain, cada usuario tiene una copia del registro y participa en la verificación de la transacción. Esto le da a Blockchain la propiedad de la inmutabilidad y garantiza la seguridad. Dado que, los datos se distribuyen, no hay una versión centralizada de los datos que pueda ser corrompida por un pirata informático. Los datos y los registros son públicos y fácilmente verificables. Esto también elimina el punto único de falla.
 
-#### _* Secure Ecosystem (Cryptographic Hash)_
+#### _\* Ecosistema seguro (Hash criptográfico)_
 
-BlockTech uses the concepts like Proof of Work and Hash encryption to ensure security and immutability. Proof of work involves several people around the world using computational algorithm to try and find the appropriate hash value that satisfies a predefined condition regarding the hash value.
+BlockTech utiliza conceptos como la prueba de trabajo y el cifrado Hash para garantizar la seguridad y la inmutabilidad. La prueba de trabajo involucra a varias personas en todo el mundo que usan un algoritmo computacional para tratar de encontrar el valor hash apropiado que satisfaga una condición predefinida con respecto al valor hash.
 
-![Hashing](https://raw.githubusercontent.com/Vagisha16/Hw3/master/Hash.png)
+![Hash](https://raw.githubusercontent.com/Vagisha16/Hw3/master/Hash.png)
 
+![Prueba de trabajo](https://qph.fs.quoracdn.net/main-qimg-098a67b40e4d0f625cf2cbbda2c95df0)
 
+#### _\* Minería_
 
+Torrent es una red descentralizada de igual a igual utilizada para compartir archivos. BlockTech utiliza tecnología similar. Lo que diferencia a los usuarios es que, en Torrent, el sistema se basa en el código de honor de los usuarios para sembrar los archivos. Mientras que, en blockchain, los usuarios que participan en la transacción tienen incentivos económicos. Estos usuarios se llaman "mineros". Los mineros usan sus recursos computacionales para resolver los hash criptográficos y garantizar la inmutabilidad y confiabilidad de la transacción. Cada solución exitosa (descifrado) asegura algún beneficio económico.
 
-![Proof of Work](https://qph.fs.quoracdn.net/main-qimg-098a67b40e4d0f625cf2cbbda2c95df0)
+![Minería](https://raw.githubusercontent.com/Vagisha16/Hw3/master/5f6609014470f4b0122de37eb09dbfc7.jpg)
 
-#### _* Mining_
+#### _\* Cronológico y con marca de tiempo._
 
-Torrent is a peer-to-peer decentralized network used to share files. Blockchain uses similar technology. What differentiates the two is that, in Torrent, the system relies on the honor code of the users to seed the files. Whereas, in blockchain, the users who are involved in the transaction have economic incentives. These users are called "Miners". The Miners spend their computing resources to solve the cryptographic hashes and ensure immutability and reliability of the transaction. Every successful solution (decryption) ensures some economic benefit - meaning the miner gets currency credited to their wallet.
+Las cadenas de bloques, idealmente, son solo listas enlazadas muy sofisticadas donde cada bloque es un repositorio que almacena información perteneciente a una transacción y también enlaces al bloque anterior en la misma transacción. Estos bloques se organizan en un pedido y se marcan en el tiempo de la creación para garantizar un registro coherente.
 
-![Mining](https://raw.githubusercontent.com/Vagisha16/Hw3/master/5f6609014470f4b0122de37eb09dbfc7.jpg)
+#### _\* Basado en el consenso_
 
-#### _* Chronological and Time stamped_
+Consensus Based es un enfoque para la toma de decisiones. Es una forma creativa y dinámica de llegar a un acuerdo entre todos los miembros de un grupo. Una transacción en Blockchain solo se puede ejecutar si todas las partes en la red lo aprueban por unanimidad. Sin embargo, está sujeto a alteraciones para adaptarse a diversas circunstancias.
 
-Blockchains, ideally, are just very sophisticated linked lists where each block is a repository that stores information pertaining to a transaction and also links to the previous block in the same transaction. These blocks are arranged in an order and are time-stamped during creation to ensure a fair record.
+### Fuentes
 
-#### _* Consensus Based_
-
-Consensus Based is an approach to decision making. It is a creative and dynamic way of reaching agreement between all members of a group. A transaction on Blockchain can be executed only if all the parties on the network unanimously approve it. It is however, subjected to alterations to suit various circumstances.
-
-
-### Sources
-
-1. [Distributed Ledger](https://searchcio.techtarget.com/definition/distributed-ledger)
-2. [What is seeding](http://help.utorrent.com/customer/portal/articles/164656)
-3. [Consensus Mechanism](https://www.seedsforchange.org.uk/consensus)
-4. [Major Features of Blockchain](https://cryptocurry.com/news/top-4-major-features-blockchain/)
-5. [Application and Features of Blockchain](https://arxiv.org/pdf/1806.03693.pdf)
+1.  [Registro Distribuido](https://searchcio.techtarget.com/definition/distributed-ledger)
+2.  [Que es sembrar](http://help.utorrent.com/customer/portal/articles/164656)
+3.  [Mecanismo de consenso](https://www.seedsforchange.org.uk/consensus)
+4.  [Características principales de Blockchain](https://cryptocurry.com/news/top-4-major-features-blockchain/)
+5.  [Aplicación y características de Blockchain](https://arxiv.org/pdf/1806.03693.pdf)
